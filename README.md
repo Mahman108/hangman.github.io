@@ -1,1 +1,1 @@
-# mahman108/hangman.github.io
+# hangman.github.io
